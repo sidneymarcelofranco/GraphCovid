@@ -2,6 +2,7 @@ import pandas as pd
 import plotly.express as px
 import streamlit as st
 
+# pip freeze --local > requirements.txt
 # pip install plotly
 # pip install streamlit
 # No cmd
