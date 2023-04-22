@@ -1,11 +1,7 @@
+![Image name](https://hermes.dio.me/lab_projects/822df8cc-de36-4ade-8d1e-23ccab371316.png)
+
 Entendendo o Desafio
  
-Agora é a sua hora de brilhar e construir um perfil de destaque na DIO! Explore todos os conceitos apresentados neste conteúdo e replique (ou melhore, porque não?) este projeto prático. Para isso, crie seu próprio repositório e aumente ainda mais seu portfólio técnico no GitHub, o qual pode fazer toda diferença em suas entrevistas futuras😎 
-
-Dica: Conforme apresentado na prática durante este conteúdo, você pode dar um "fork" no Repositório Git disponibilizado. Assim você pode organizar suas alterações e evoluções mantendo uma referência direta ao código-fonte original. 
-
- 
-
 Repositório Git e Links Úteis 
 
 O Git é um conceito essencial no mercado de trabalho atualmente, por isso sempre reforçamos sua importância em nossa metodologia educacional.  
